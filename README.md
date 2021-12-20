@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+
+I am a Junior Developer currently emplpyed by AJG Australia. I am currently enrolled in Coding Bootcamp by The University of Sydney. 
+
 
 <!--
 **CPetrevski/Cpetrevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
