@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a Junior Developer currently emplpyed by AJG Australia. I started off completing courses through Team Tree House learning online. I then enrolled into Full Stack Coding Bootcamp from the Univeristy of Sydney which I have now completed. Currently learning courses through Udemy while I am working.
+I am a Junior .NET Developer currently emplpyed by AJG Australia. I started off completing courses through Team Tree House learning online. I then enrolled into Full Stack Coding Bootcamp from the Univeristy of Sydney which I have now completed. Currently learning courses through Udemy after hours.
 
 
 <!--
