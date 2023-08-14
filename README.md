@@ -1,7 +1,6 @@
 ### Hello 👋
 
-I am a Full Stack .NET Developer. I started off completing courses through Team Tree House learning online. I then enrolled into Full Stack Coding Bootcamp from the Univeristy of Sydney which I have now completed. Currently learning courses through Udemy after hours.
-
+I am a Full Stack .NET Developer. Always learning in my personal hours. Currently studying latest versions of .NET Core
 
 <!--
 **CPetrevski/Cpetrevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
