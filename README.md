@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a Full Stack .NET Developer. Always learning in my personal hours. Currently studying latest versions of .NET Core
+Full Stack .Net Developer
 
 <!--
 **CPetrevski/Cpetrevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
